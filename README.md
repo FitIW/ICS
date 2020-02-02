@@ -3,8 +3,11 @@
 ---
 
 # Aktuality k předmětu
+
+ - **02.02.2020** | *Patrik Švikruha* |  [Visual Studio 2019 Enterprise](https://aka.ms/devtoolsforteaching) je dostupné v Azure Dev Tools for Teaching. Přihlášení je nutné s loginem z domény VUT, tj xlogin00@vutbr.cz
+
  - **01.02.2020** | *Jan Pluskal* | [Visual Studio 2019 Enterprise](https://aka.ms/devtoolsforteaching) je nově dostupné v Azure Dev Tools for Teaching. Přihlášení je nutné s loginem z domény VUT, tj xlogin00@vutbr.cz
- - **01.02.2020** | *Jan Pluskal* | Při vytváření repozitáře respektujte schéma ze [zadání](/Project/README.md) *https://dev.azure.com/ics-2019-team0000/project*. Je nezbytně nutné použít Vaše účty z doménu *vutbr.cz*. Do Vašich repozitářů pro projekt přidejte účet **uciteliw5@vutbr.cz**. Pokud uděláte chybu a pouze nesedí url, dá se v nastavení změnit.
+  - **08.01.2019** | *Jan Pluskal* | Při vytváření repozitáře respektujte schéma ze [zadání](/Project/README.md) *https://dev.azure.com/xmw5-2020-team0000/project*.  Je nezbytně nutné použít Vaše účty z doménu *vutbr.cz*. Do Vašich repozitářů pro projekt přidejte účet **uciteliw5@vutbr.cz**. Pokud uděláte chybu a pouze nesedí url, dá se v nastavení změnit.
     * Pokud máte vytvořeno pod soukromými účty, je třeba vytvořit projekt znovu pod univerzitními a pushnout existující repozitář tak, aby Vám zůstala historie včetně správných časů commitů.
     * Pokud bude kolize s existující organizací, použijte suffix *team0000-01*.
 
@@ -14,7 +17,7 @@
 
 | Typ                                  | Místnost | Čas            |
 | ------------------------------------ |----------| -------------- |
-| Přednáška                            | D0206    | Po 13:00-14:50 |
+| Přednáška                            | T12/SD 1.52  | Čt 15:00-16:50 |
 
 +++
 
@@ -53,26 +56,29 @@
 ---
 
 # Cvičení
-Cvičení jsou demonstrační. Pokud možno, přineste si vlastní zařízení na kterém budete moct cvičení aktivně zúčastnit. Bude potřeba vývojové prostředí ideálně Visual Studio 2019 / Rider / VSCode.
+Cvičení jsou demonstrační. Pokud možno, přineste si vlastní zařízení na kterém budete moct cvičení aktivně zúčastnit. Bude potřeba vývojové prostředí ideálně Visual Studio 2019/ Rider / VSCode
 
 | Typ                                  | Místnost | Čas            |
 | ------------------------------------ |----------| -------------- |
-| Dobrovolné demonstrační cvičení      | D0206    | Po 15:00-16:50 |
+| Dobrovolné demonstrační cvičení      | T12/SD 1.52     | Čt 17:00-18:50 |
 
 +++
 
-| Datum  |                                                 Téma cvičení |
-| ------ | ------------------------------------------------------------ |
-| 03.02. | Práce s Visual Studio 2019, Azure DevOps                     |
-| 10.02. | Objektově orientované programování, úvod do Entity Framework |
-| 24.02. | Entity framework                                             |
-| 23.03. | Základy WPF, návrhový vzor MVVM                              |
-| 06.04. | WPF frontend, binding                                        |
-| 20.04. | Takto můžete napsat projekt?!                                |
+| Datum |                                                 Téma cvičení |
+| ----- | ------------------------------------------------------------ |
+| 6.2.  | Práce s Visual Studio 2017, Azure DevOps                     |
+| 20.2. | Objektově orientované programování, úvod do Entity Framework |
+| 5.3.  | Entity framework, zásady Clean Code, SOLID                   |
+| 19.3. | Základy WPF, návrhový vzor MVVM                              |
+| 2.4.  | WPF frontend, binding                                        |
+| 16.4. | Bonusové cvičení                                             |
 
 ---
 
 # Projekt
+* Při vytváření repozitáře respektujte schéma ze **[zadání](/Project/README.md)** (*https://dev.azure.com/xmw5-2020-team0000/project*). Je nezbytně nutné použít Vaše účty z doménu *vutbr.cz*. Do Vašich repozitářů pro projekt přidejte účet **uciteliw5@vutbr.cz**. Pokud uděláte chybu a pouze nesedí url, dá se v nastavení změnit.
+    * Pokud máte vytvořeno pod soukromými účty, je třeba vytvořit projekt znovu pod univerzitními a pushnout existující repozitář tak, aby Vám zůstala historie včetně správných časů commitů. [how to multiple Git repositories](https://jigarius.com/blog/multiple-git-remote-repositories)
+
 * Projekt bude vypracovaný v 3-5ti členném týmu.
 
 | Fáze |            Deadline |                                   Obsah | Body |
