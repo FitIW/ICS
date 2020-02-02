@@ -1,15 +1,10 @@
-# Seminář C# - ICS, Organizational Details
+# XMW5 Programming in .NET and C#, Organizational Details
 
 ---
 
 # Aktuality k předmětu
-
- - **02.02.2020** | *Patrik Švikruha* |  [Visual Studio 2019 Enterprise](https://aka.ms/devtoolsforteaching) je dostupné v Azure Dev Tools for Teaching. Přihlášení je nutné s loginem z domény VUT, tj xlogin00@vutbr.cz
-
+ - **02.02.2020** | *Patrik Švikruha* | Tento predmet je analogický k FIT semináru o C# [ICS](https://github.com/nesfit/ICS). Predmet [IW5](https://github.com/FitIW/5) je pokročilejší ako XMW5 a to pokračovanie tohoto kurzu.
  - **01.02.2020** | *Jan Pluskal* | [Visual Studio 2019 Enterprise](https://aka.ms/devtoolsforteaching) je nově dostupné v Azure Dev Tools for Teaching. Přihlášení je nutné s loginem z domény VUT, tj xlogin00@vutbr.cz
-  - **08.01.2019** | *Jan Pluskal* | Při vytváření repozitáře respektujte schéma ze [zadání](/Project/README.md) *https://dev.azure.com/xmw5-2020-team0000/project*.  Je nezbytně nutné použít Vaše účty z doménu *vutbr.cz*. Do Vašich repozitářů pro projekt přidejte účet **uciteliw5@vutbr.cz**. Pokud uděláte chybu a pouze nesedí url, dá se v nastavení změnit.
-    * Pokud máte vytvořeno pod soukromými účty, je třeba vytvořit projekt znovu pod univerzitními a pushnout existující repozitář tak, aby Vám zůstala historie včetně správných časů commitů.
-    * Pokud bude kolize s existující organizací, použijte suffix *team0000-01*.
 
 ---
 
@@ -101,7 +96,7 @@ Cvičení jsou demonstrační. Pokud možno, přineste si vlastní zařízení n
 |[Visual Studio 2019 Enterprise](https://aka.ms/devtoolsforteaching) | Samostatný program | Hlavní vývojové prostředí pro .Net |
 |[Resharper](https://www.jetbrains.com/resharper/) | Doplněk | Nástroje na lepší produktivitu, refaktorování. Studentská licence je k dispozici zdarma [zde](https://www.jetbrains.com/student/) |
 |[Code metrices](https://visualstudiogallery.msdn.microsoft.com/369d38e1-53d3-4f5c-9351-a0560162a6d9) | Doplněk | Zobrazování složitosti jednotlivých metod |
-
+|[VS Code](https://code.visualstudio.com/) | Samostatný program | Rozšíriteľný textový editor
 +++
 
 | Nástroj  |  Typ   | Popis |
