@@ -19,7 +19,7 @@
 0. [Organizace kurzu](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_00#/)
 1. [Úvod do jazyka C# a platformy .NET](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_01#/)
    * základní syntaxe jazyka, instalace a představení Visual Studia
-   * [Úvod do databazii](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_01#/)
+   * [Úvod do databazii](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_DB#/)
 2. [Úvod do Objektově Orientované Programování](https://gitpitch.com/FitIW/ics?grs=github&t=white&p=Lectures%2F_bonus%2FLecture_DB#/)
    * pokročilé konstrukce v jazyce C# - výjimky, události, delegáty, lambda výrazy a generika
 3. [Představení základních knihovních funkcí (BCL)](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_03#/)
