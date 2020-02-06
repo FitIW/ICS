@@ -1,9 +1,14 @@
-# XMW5
-# Programming in .NET and C# # 
+@snap[midpoint span-100]
+
 # Introduction to Databases and ORM
-<div class="right">
+
+@snapend
+
+@snap[south-east span-40]
+
 [ Patrik Švikruha <patrik.svikruha@vutbr.cz> ]
-</div>
+
+@snapend
 
 ---
 ## Agenda
@@ -66,11 +71,11 @@
 <div class="left">
 <ul>
   <li>Software system specifically designed to hold databases</li>
-  <ul>
+  <ul style="font-size: smaller">
     <li>**Database** is informational repository maintained in DBMS</li>
   </ul>
   <li>Main Tasks:</li>
-  <ul>
+  <ul style="font-size: smaller">
     <li>Data storage, retrieval and update (CRUD)</li>
     <li>Support for transactions and concurrency</li>
     <li>Support for authorization of access and update of data</li>
