@@ -1,9 +1,14 @@
-# XMW5
-# Programming in .NET and C# # 
+@snap[midpoint span-100]
+
 # Introduction to Databases and ORM
-<div class="right">
+
+@snapend
+
+@snap[south-east span-40]
+
 [ Patrik Švikruha <patrik.svikruha@vutbr.cz> ]
-</div>
+
+@snapend
 
 ---
 ## Agenda
