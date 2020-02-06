@@ -3,7 +3,7 @@
 ---
 
 # Aktuality k předmětu
- - **02.02.2020** | *Patrik Švikruha* | Tento predmet je analogický k FIT semináru o C# [ICS](https://github.com/nesfit/ICS). Predmet [IW5](https://github.com/FitIW/5) je pokročilejší ako XMW5 a to pokračovanie tohoto kurzu.
+ - **02.02.2020** | *Patrik Švikruha* | Tento predmet je analogický k FIT semináru o C# [ICS](https://github.com/FitIW/ICS). Predmet [IW5](https://github.com/FitIW/5) je pokročilejší ako XMW5 a to pokračovanie tohoto kurzu.
  - **01.02.2020** | *Jan Pluskal* | [Visual Studio 2019 Enterprise](https://aka.ms/devtoolsforteaching) je nově dostupné v Azure Dev Tools for Teaching. Přihlášení je nutné s loginem z domény VUT, tj xlogin00@vutbr.cz
 
 ---
@@ -16,14 +16,14 @@
 
 +++
 
-0. [Organizace kurzu](https://gitpitch.com/nesfit/ics?grs=github&t=white&p=Lectures%2FLecture_00#/)
-1. [Úvod do jazyka C# a platformy .NET](https://gitpitch.com/nesfit/ics?grs=github&t=white&p=Lectures%2FLecture_01#/)
+0. [Organizace kurzu](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_00#/)
+1. [Úvod do jazyka C# a platformy .NET](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_01#/)
    * základní syntaxe jazyka, instalace a představení Visual Studia
 2. [Úvod do Objektově Orientované Programování](https://gitpitch.com/nesfit/ics?grs=github&t=white&p=Lectures%2FLecture_02#/)
    * pokročilé konstrukce v jazyce C# - výjimky, události, delegáty, lambda výrazy a generika
-3. [Představení základních knihovních funkcí (BCL)](https://gitpitch.com/nesfit/ics?grs=github&t=white&p=Lectures%2FLecture_03#/)
+3. [Představení základních knihovních funkcí (BCL)](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_03#/)
    * dotazování za pomocí vestavěného nástroje LINQ nad datovými zdroji (kolekcemi, XML, MSSQL)
-4. [Propojení aplikace s databází](https://gitpitch.com/nesfit/ics?grs=github&t=white&p=Lectures%2FLecture_04#/)
+4. [Propojení aplikace s databází](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_04#/)
    * zajištění persistence pomocí ORM rozšíření Entity Framework s návrhovými vzory UnitOfWork a Repository
 5. Psaní čistého, udržovatelného kódu
    * respektováním Clean Code, S.O.L.I.D. zásad
@@ -36,13 +36,13 @@
 
 7. Continous Integration v prostředí Azure DevOps
    * testování aplikací - smoke, unit, integrační, UI a akceptační testy
-8. [Základní koncepty tvorby uživatelského rozhraní](https://gitpitch.com/nesfit/ics?grs=github&t=white&p=Lectures%2FLecture_08#/)
+8. [Základní koncepty tvorby uživatelského rozhraní](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_08#/)
    * Windows Presentation Foundation (WPF)
 9. Návrhové vzory
    * vytvářecí, strukturní a chování - Gang of Four (GoF) v kontextu C#
 10. WPF za pomoci MVVM, tvorba komponenty a stylování aplikací.
 11. Velikonoční pondělí
-11. [Paralelní a asynchronní programování](https://gitpitch.com/nesfit/ics?grs=github&t=white&p=Lectures%2FLecture_11#/)
+11. [Paralelní a asynchronní programování](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_11#/)
     * proces, vlákno, úloha z pohledu C# a použitého .NET frameworku
 12. Multiplatformní programování
     * .NET Standard, .NET Core.
@@ -61,7 +61,7 @@ Cvičení jsou demonstrační. Pokud možno, přineste si vlastní zařízení n
 
 | Datum |                                                 Téma cvičení |
 | ----- | ------------------------------------------------------------ |
-| 6.2.  | Práce s Visual Studio 2017, Azure DevOps                     |
+| 6.2.  | Práce s Visual Studio 2019, VS Code, Azure DevOps            |
 | 20.2. | Objektově orientované programování, úvod do Entity Framework |
 | 5.3.  | Entity framework, zásady Clean Code, SOLID                   |
 | 19.3. | Základy WPF, návrhový vzor MVVM                              |
@@ -71,8 +71,6 @@ Cvičení jsou demonstrační. Pokud možno, přineste si vlastní zařízení n
 ---
 
 # Projekt
-* Při vytváření repozitáře respektujte schéma ze **[zadání](/Project/README.md)** (*https://dev.azure.com/xmw5-2020-team0000/project*). Je nezbytně nutné použít Vaše účty z doménu *vutbr.cz*. Do Vašich repozitářů pro projekt přidejte účet **uciteliw5@vutbr.cz**. Pokud uděláte chybu a pouze nesedí url, dá se v nastavení změnit.
-    * Pokud máte vytvořeno pod soukromými účty, je třeba vytvořit projekt znovu pod univerzitními a pushnout existující repozitář tak, aby Vám zůstala historie včetně správných časů commitů. [how to multiple Git repositories](https://jigarius.com/blog/multiple-git-remote-repositories)
 
 * Projekt bude vypracovaný v 3-5ti členném týmu.
 
@@ -86,6 +84,11 @@ Cvičení jsou demonstrační. Pokud možno, přineste si vlastní zařízení n
   * musí být přítomni všichni členové týmu,
   * obhajovat projekt bude náhodně vybraný člen týmu,
   * nemusíte chodit v obleku...,
+
++++
+
+* Při vytváření repozitáře respektujte schéma ze **[zadání](/Project/README.md)** (*https://dev.azure.com/xmw5-2020-team0000/project*). Je nezbytně nutné použít Vaše účty z doménu *vutbr.cz*. Do Vašich repozitářů pro projekt přidejte účet **uciteliw5@vutbr.cz**. Pokud uděláte chybu a pouze nesedí url, dá se v nastavení změnit.
+    * Pokud máte vytvořeno pod soukromými účty, je třeba vytvořit projekt znovu pod univerzitními a pushnout existující repozitář tak, aby Vám zůstala historie včetně správných časů commitů. [how to multiple Git repositories](https://jigarius.com/blog/multiple-git-remote-repositories)
 
 ---
 
@@ -138,9 +141,10 @@ Cvičení jsou demonstrační. Pokud možno, přineste si vlastní zařízení n
 * [Roman Jašek]()
 * [Tibor Jašek]()
 * [Adam Jež]()
-* [Michal Mrnušťík]()
+* [Michal Mrnuštík]()
 * [Jan Pluskal](http://www.fit.vutbr.cz/~ipluskal/)
 * [Jiří Pokorný]()
+* [Patrik Švikruha](https://patriksvikruha.com)
 
 ---
 
