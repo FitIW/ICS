@@ -20,7 +20,7 @@
 1. [Úvod do jazyka C# a platformy .NET](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_01#/)
    * základní syntaxe jazyka, instalace a představení Visual Studia
    * [Úvod do databazii](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_DB#/)
-2. [Úvod do Objektově Orientované Programování](https://gitpitch.com/FitIW/ics?grs=github&t=white&p=Lectures%2F_bonus%2FLecture_DB#/)
+2. [Úvod do Objektově Orientované Programování](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_02#/)
    * pokročilé konstrukce v jazyce C# - výjimky, události, delegáty, lambda výrazy a generika
 3. [Představení základních knihovních funkcí (BCL)](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_03#/)
    * dotazování za pomocí vestavěného nástroje LINQ nad datovými zdroji (kolekcemi, XML, MSSQL)
@@ -42,7 +42,6 @@
 9. Návrhové vzory
    * vytvářecí, strukturní a chování - Gang of Four (GoF) v kontextu C#
 10. WPF za pomoci MVVM, tvorba komponenty a stylování aplikací.
-11. Velikonoční pondělí
 11. [Paralelní a asynchronní programování](https://gitpitch.com/FitIW/ICS?grs=github&t=white&p=Lectures%2FLecture_11#/)
     * proces, vlákno, úloha z pohledu C# a použitého .NET frameworku
 12. Multiplatformní programování
