@@ -38,6 +38,12 @@
 
 ![](/Lectures/Lecture_03/Assets/img/NetToday.png)
 
+
++++
+#### .NET Tomorrow
+
+![](/Lectures/Lecture_03/Assets/img/NetTomorrow.png)
+
 +++
 ### .NET Standard vs .NET Core
 * **.NET Standard**
@@ -80,6 +86,7 @@
 | 1.5     | 13,355 |      +2% |
 | 1.6     | 13,501 |      +1% |
 | 2.0     | 32,638 |    +142% |
+| 2.1     | 37,118 |     +14% |
 
 +++
 ### .NET API
